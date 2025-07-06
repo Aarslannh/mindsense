@@ -97,7 +97,7 @@ MindSense, ilkokul, ortaokul ve lise öğrencilerinin yapay zekâ destekli sesli
 | Seydi Dağlı      | Takım Üyesi    |
 | Yusuf Tetik      | Takım Üyesi    |
 | Aybüke Yıldız    | Takım Üyesi    |
-| Hamide Arslan    | Takım Üyesi    |
+| Hamide Arslan    | Product Owner  |
 
 ---
 
