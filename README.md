@@ -6,10 +6,11 @@ MindSense, ilkokul, ortaokul ve lise öğrencilerinin yapay zekâ destekli sesli
 - Öğrencilerin bireysel ders çalışmasını kolaylaştırmak
 - Duygusal farkındalık oluşturarak psikolojik destek sağlamak
 - Okul rehberlik servislerine erken uyarı sistemi sunmak  
-
+- Branş ve etüt öğretmenlerine öğrencilerin kazanım eksiklikleri hakkında veriler sunmak
 ## Hedef Kitle
 - İlkokul, ortaokul ve lise öğrencileri  
-- Rehber öğretmenler ve psikolojik danışmanlar  
+- Rehber öğretmenler ve psikolojik danışmanlar
+- Branş ve etüt öğretmenleri 
 - Eğitim kurumları ve EdTech geliştiricileri  
 
 ---
